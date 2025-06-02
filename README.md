@@ -1,4 +1,4 @@
-# Exploring the Curse of Dimensionality and PCA:-
+## Exploring the Curse of Dimensionality and PCA:-
 
 This project explores the **Curse of Dimensionality** in high-dimensional datasets and demonstrates 
 how **Principal Component Analysis (PCA)** can be used to reduce dimensions effectively. The popular **MNIST handwritten digit dataset** 
